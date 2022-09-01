@@ -1,3 +1,4 @@
+#Python
 #Someone else's code
 
 h_age = int(input("Input a dog's age in human years: "))
